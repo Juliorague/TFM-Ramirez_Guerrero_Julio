@@ -79,11 +79,13 @@ xgboost_params <-
     tree_depth(),
     learn_rate()
   )
+
 xgboost_grid <-
   grid_max_entropy(
     xgboost_params,
     size = 50
   )
+
 print(xgboost_grid)
 
 ## workflow
