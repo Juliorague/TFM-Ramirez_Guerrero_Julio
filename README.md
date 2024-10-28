@@ -1,6 +1,6 @@
 # Supervised Learning Metabolite Analysis of Drought Tolerance and Grafting Effects in *Pinus pinaster* Aiton
 
-### Author: Julio Ramírez-Guerrero  
+### Author: Julio Ramírez Guerrero  
 
 ## Overview
 This repository contains scripts used for a study focused on understanding the impact of grafting on the metabolomic response of *Pinus pinaster* Aiton with a specific emphasis on drought tolerance. By using supervised machine learning (ML) algorithms, the study identifies key metabolites and molecular markers of grafting, rootstock type, and scion type to infer long-distance metabolic communication within grafted conifers.
